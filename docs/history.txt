@@ -1,3 +1,87 @@
+dst: 你好
+src: hello
+pos: noun
+word: hello
+ph_en: həˈləʊ
+ph_am: həˈloʊ
+text: 你好
+tran: 你好，特里茜。
+ex: Hello, Trish...
+tran: 你要不要进来和我女友打个招呼？
+ex: Do you want to pop your head in and say hallo to my girlfriend?
+tran: 
+tran: 售货员热情地和我打招呼。
+ex: The salesperson greeted me with a warm hello.
+def: <b>Hello</b> is also a noun.
+tran: 
+tran: 哈罗;你好
+def: You say '<b>Hello</b>' to someone when you meet them.
+tran: 过了一会儿，科恩接起电话。“喂？”
+ex: A moment later, Cohen picked up the phone. 'Hello?'
+tran: 喂，我找弗兰克。
+ex: Hallo, may I speak to Frank, please.
+tran: 
+tran: （打电话时的招呼语）喂
+def: You say '<b>Hello</b>' to someone at the beginning of a telephone conversation, either when you answer the phone or before you give your name or say why you are phoning.
+tran: 她看到一个系办公室的门开着。“喂！请问，这是法语系，对吗？”
+ex: She could see the open door of a departmental office. 'Hello! Excuse me. This is the department of French, isn't it?'...
+tran: 她轻声细气喊道：“喂？有人吗？”
+ex: Very softly, she called out: 'Hallo? Who's there?'
+tran: （用于引起别人注意）喂
+def: You can call '<b>hello</b>' to attract someone's attention.
+enText: hullo
+chText: 
+text: especially in 
+text: BrE
+text: BrE
+text:  also
+enText: hallo
+chText: 
+text: pl.
+enText: -os
+chText: 
+enText: used as a greeting when you meet sb, when you answer the telephone or when you want to attract sb's attention
+chText: （用于问候、接电话或引起注意）哈罗，喂，你好
+enText: Hello John, how are you?
+chText: 哈罗，约翰，你好吗？
+enText: Hello, is there anybody there?
+chText: 喂，那里有人吗？
+enText:  Say hello to Liz for me.
+chText: 替我向利兹问好。
+enText: They exchanged hellos (= said hello to each other) and forced smiles.
+chText: 他们相互打个招呼，勉强笑笑。
+text: BrE
+enText: used to show that you are surprised by sth
+chText: （表示惊讶）嘿
+enText: Hello, hello, what's going on here?
+chText: 嘿，嘿，这是在干吗？
+enText: used to show that you think sb has said sth stupid or is not paying attention
+chText: （认为别人说了蠢话或没有注意听）喂，嘿
+enText: Hello? You didn't really mean that, did you?
+chText: 嘿？你不会真是那个意思吧？
+enText: I'm like, ‘Hello! Did you even listen?’
+chText: 我说：“嘿！你到底听没听我说呀？”
+text: golden hello
+text: greetings
+enText: Hello is the most usual word and is used in all situations, including answering the telephone.
+chText: Hello最为常用，用于所有场合，包括接电话。
+enText: Hi is more informal and is now very common.
+chText: Hi较非正式，现在使用很普遍。
+enText: How are you? or How are you doing? (very informal) often follow Hello and Hi .
+chText: How are you? 或 How are you doing? （非常口语化）常用于Hello和Hi之后：
+enText: ‘Hello, Mark.’ ‘Oh, hi, Kathy! How are you?’
+chText: “马克，你好。”“噢，凯西，你好！你好吗？”
+enText: Good morning is often used by members of a family or people who work together when they see each other for the first time in the day. It can also be used in formal situations and on the telephone. In informal speech, people may just say Morning .
+chText: Good morning常在家庭成员或同事之间一天中第一次见面时说，亦可用于正式场合和电话中。在非正式谈话中，可只说Morning。
+enText: Good afternoon and Good evening are much less common. Good night is not used to greet somebody, but only to say goodbye late in the evening or when you are going to bed.
+chText: Good afternoon和Good evening少用得多。Good night只在晚上说再见或上床睡觉前说，不用以打招呼。
+enText: If you are meeting someone for the first time, you can say Pleased to meet you or Nice to meet you (less formal). Some people use How do you do? in formal situations. The correct reply to this is How do you do?
+chText: 第一次与人见面时可说Pleased to meet you或Nice to meet you（较非正式）。在正式场合有些人用How do you do? ，正确的回答是How do you do?
+
+dst: 你好世界
+src: hello world
+text: 你好世界
+
 dst: 你好世界
 src: hello world
 text: 你好世界
