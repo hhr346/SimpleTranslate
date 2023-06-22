@@ -140,7 +140,7 @@ class Translation:
             'from': self.lan1,
             'to': self.lan2
         }
-        ctx = execjs.compile(readJS(r'D:\OpenIdea\SimpleTranslate\core\sign.js'))
+        ctx = execjs.compile(readJS(r'.\core\sign.js'))
         sign = ctx.call('e', self.__word)
 
         # Do the tranlation
