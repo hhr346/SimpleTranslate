@@ -1,7 +1,5 @@
 # 简译：Simple Translate
 
-[TOC]
-
 ## 简介
 
 > 一款快速查词的桌面小工具
