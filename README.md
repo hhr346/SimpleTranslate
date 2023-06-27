@@ -1,6 +1,6 @@
 # 简译：Simple Translate
 
-[toc]
+[TOC]
 
 ## 简介
 
