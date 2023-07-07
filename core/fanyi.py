@@ -74,7 +74,7 @@ def get_result(sign, trans, parame):
         'transtype': 'realtime',
         'simple_means_flag': '3',
         'sign': sign,
-        'token': '2f3ab0ebde84cc8831501cb3b34fe88a',
+        'token': 'Your token here',
         'domain': 'common',
         'ts': str(ts),
     }
