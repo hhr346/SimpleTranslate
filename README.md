@@ -1,7 +1,5 @@
 # 简译：Simple Translate
 
-[toc]
-
 ## 简介
 
 > 一款快速查词的桌面小工具
@@ -94,8 +92,8 @@ doc文件夹里的history为记录历史记录，query为当前查词记录
 
 在屏幕右下角会出现翻译框，输入查询的单词或短语，点击`Go`或者按下回车键，即可返回相应查询值
 
-![image-20230622185731255](.\docs\window.png)
+![](./docs/window.png)
 
 在命令行里会输出更多相关信息可以参考
 
-![image-20230622185731255](.\docs\cmd.png)
+![](./docs/cmd.png)
