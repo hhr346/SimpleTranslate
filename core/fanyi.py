@@ -65,7 +65,7 @@ def get_result(sign, trans, parame):
         'X-Requested-With': 'XMLHttpRequest',
     }
 
-    ts = datetime.now().timestamp()*1000
+    ts = int(datetime.now().timestamp()*1000)
     data = {
         'from': parame['from'],
         'to': parame['to'],
